@@ -3,5 +3,5 @@
 🚀 Currently learning Django and contributing to GitHub projects  
 
 ## 🛠️ Tech Stack
-- HTML, CSS, Python
+- HTML, CSS, Python, JavaScript
 - Git, GitHub
