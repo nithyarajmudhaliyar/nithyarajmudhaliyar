@@ -8,5 +8,5 @@
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://raw.githubusercontent.com/nithyarajmudhaliyar/nithyarajmudhaliyar/main/github-contribution-grid-snake.svg)
+
 
