@@ -3,7 +3,7 @@
 🚀 Currently learning Django and contributing to GitHub projects  
 
 ## 🛠️ Tech Stack
-- HTML, CSS, Python, JavaScript
+- HTML, CSS, Python, JavaScript, Numpy
 - Git, GitHub
 
 ## 🐍 Contribution Snake
