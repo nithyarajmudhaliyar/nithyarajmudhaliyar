@@ -41,13 +41,3 @@
 </picture>
 
 ---
-
-## ⚓ Developer's Creed
-
-<div align="center">
-
-> **“A contributor must stand proudly by the PR they raise.”**  
->  
-> — *Nithyaraj*
-
-</div>
