@@ -17,7 +17,8 @@
 - 🎓 Second-year Computer Science student focused on **Software Engineering and Artificial Intelligence**.
 - 🐍 Building applications and backend systems with **Python** and **FastAPI**.
 - 🤖 Currently learning **Machine Learning, AI, and the mathematics behind them**.
-- 🧠 Regularly practicing **Data Structures & Algorithms** and competitive programming.
+- 🧠 Practicing **Data Structures & Algorithms** through **LeetCode**.
+- 🏆 Regularly participating in **Codeforces contests** to improve competitive programming and problem-solving skills.
 - 🌍 Open-source contributor with experience contributing to **Zulip**.
 - 📊 Exploring **NumPy** and data-processing workflows as part of my AI/ML journey.
 - 🤝 Interested in collaborating on projects involving **AI, backend engineering, developer tools, and open source**.
@@ -87,3 +88,8 @@ Interested in contributing to projects involving:
 ## 📫 Let's Connect
 
 I'm interested in **AI/ML, backend engineering, open source, and building useful software**.
+
+<a href="https://www.linkedin.com/in/nithyaraj-mudhaliyar-423a1a37b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
