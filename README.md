@@ -64,6 +64,14 @@ Interested in contributing to projects involving:
 - 🏆 Regularly participating in **competitive programming**
 - 📚 Focused on improving problem-solving, algorithmic thinking, and implementation skills
 
+<a href="https://leetcode.com/u/fAgMpNnLDl/" target="_blank">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+<a href="https://codeforces.com/profile/Nit_2007" target="_blank">
+  <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
 ---
 
 ## 🐍 Contribution Snake
