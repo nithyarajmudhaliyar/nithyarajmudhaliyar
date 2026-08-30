@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nithyaraj!
 
-### 🐍 Python Developer | 🤖 AI/ML Enthusiast | 🌐 Open Source
+### 🤖 AI/ML Enthusiast | 🌐 Open Source Contributor | 💻 Web Developer
 
 <p align="center">
   <i>Building practical software, exploring AI/ML, and contributing to real-world open-source projects.</i>
